@@ -2,6 +2,7 @@
 ## AIM:
 To show that the records of one table doesnot exists in another table by using SQL.
 ## ALGORITHM:
+```
 STEP 1: Create a sample table in SQL using CREATE TABLE syntax
 STEP 2: Insert all the values and Titles respectively using INSERT INTO syntax
 STEP 3: Now check whether all the rows are affected or not by fetching the table
@@ -10,6 +11,7 @@ we want and use FROM to choose the table
 STEP 5: Then use WHERE to check the condition and NOT IN syntax to check whether 
 the column or table mention is there in another table
 STEP 6: After compiling and running the program, the results will be displayed.
+```
 ## PROGRAM:
 ```
 create table office1(
